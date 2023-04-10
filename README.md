@@ -1,6 +1,4 @@
-<HTML>
-<B>sobre mim...</B><P>
-- Meu nome é sibelle Taborda<P>
-- Meu e-mail é: sibelle.taborda@escola.pr.gov.br
-
-</HTML>
+### Sobre mim....
+-_Olá meu nome é SIBELLE_
+- **Meu e-mail é sibelle.taborda@escola.pr.gov.br**
+-<i>Eu estou interessado em aprender a programar novas linguagns<i>
